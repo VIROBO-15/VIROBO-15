@@ -1,6 +1,6 @@
 <h2> salut les amis! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://github.com/VIROBO-15/VIROBO-15/blob/dfb8fee2d60bc4db6aa1e43fb6336d76afe7590e/image.jpeg" width="300">
 
-👋 Hi, I’m Amandeep Kumar
+-👋 Hi, I’m Amandeep Kumar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amandeep-kumar-24702a182/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumar.amandeep015@gmail.com)
