@@ -1,4 +1,9 @@
 - 👋 Hi, I’m Amandeep Kumar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-lal/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:take2rohit@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=q2nc3QoAAAAJ&hl=en)
+
 - 👀 I’m interested in cutting-edge research on CV and DL especially in field of Image Generation and Object Detection.
 - 💞️ I’m looking to collaborate on research projects mostly on Image Generation
 - 📫 How to reach me [GMAIL](kumar.amandeep015@gmail.com) 
