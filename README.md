@@ -7,7 +7,7 @@
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=aqSRl_IAAAAJ&hl=en&authuser=3)
 
 - 👀 I’m interested in cutting-edge research on CV and DL especially in field of GenAI.
-- 💞️ I’m looking to collaborate on research projects mostly on Image Generation
+- 💞️ I’m looking to collaborate on research projects mostly on Generation
 - 📫 How to reach me [GMAIL](kumar.amandeep015@gmail.com) 
 
 <!---
